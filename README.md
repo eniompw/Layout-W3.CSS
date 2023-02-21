@@ -36,4 +36,4 @@ An example of using the W3.CSS library to build a simple webpage layout.
 </html>
 ```
 
-![Layout-W3.CSS](Example%20Layout.png)
+![Layout-W3.CSS](ExampleLayout.png)
