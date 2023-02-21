@@ -1,5 +1,5 @@
 # Layout with W3.CSS
-An example of using the W3.CSS library to build a simple layout.
+An example of using the W3.CSS library to build a simple webpage layout.
 
 ### [Example.html](https://github.com/eniompw/Layout-W3.CSS/blob/main/index.html)
 
